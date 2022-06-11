@@ -1,6 +1,6 @@
 """These are Unittests for the translator"""
 import unittest
-from translator import english_to_french, french_to_english
+from machinetranslation import english_to_french, french_to_english
 
 
 class TestEnglishToFrench(unittest.TestCase):
